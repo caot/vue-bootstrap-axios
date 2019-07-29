@@ -1,4 +1,4 @@
-# vue-hello
+# vue, bootstrap-vue, axios
 
 ## Project setup
 ```
